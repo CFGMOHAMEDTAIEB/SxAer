@@ -1,0 +1,39 @@
+{
+  "generic": {
+    "rules": [
+      {
+        "id": "GEN-001",
+        "text": "Requirement uses verifiable normative wording.",
+        "severity": "medium",
+        "applicability": "requirement"
+      }
+    ],
+    "confidence_threshold": 0.75,
+    "human_review_threshold": 0.75
+  },
+  "do178c": {
+    "rules": [
+      {
+        "id": "DO178C-SAMPLE-001",
+        "text": "Requirement has a verification method and objective evidence.",
+        "severity": "high",
+        "applicability": "requirement"
+      }
+    ],
+    "confidence_threshold": 1.0,
+    "human_review_threshold": 1.0
+  },
+  "gt44": {
+    "sample_rules": true,
+    "rules": [
+      {
+        "id": "GT44-SAMPLE-001",
+        "text": "Capture source and assurance context for review.",
+        "severity": "medium",
+        "applicability": "requirement"
+      }
+    ],
+    "confidence_threshold": 0.8,
+    "human_review_threshold": 0.8
+  }
+}

@@ -1,0 +1,1 @@
+"""SmartX Streamlit entrypoints and import-path compatibility helpers."""

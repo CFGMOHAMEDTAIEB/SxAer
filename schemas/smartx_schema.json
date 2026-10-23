@@ -1,0 +1,18 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"title": "SmartX Document",
+	"type": "object",
+	"required": ["document_type", "content", "items", "provenance", "profile", "confidence", "human_review_required"],
+	"properties": {
+		"document_type": {"type": "string"},
+		"title": {"type": "string"},
+		"content": {"type": "string"},
+		"items": {"type": "array", "items": {"type": "object", "required": ["id", "text"], "properties": {"provenance": {"type": "object"}}}},
+		"metadata": {"type": "object"},
+		"provenance": {"type": "array", "items": {"type": "object", "required": ["source_name", "source_hash", "extraction_method", "confidence"]}},
+		"profile": {"type": "string"},
+		"confidence": {"type": "number", "minimum": 0, "maximum": 1},
+		"human_review_required": {"type": "boolean"},
+		"warnings": {"type": "array"}
+	}
+}

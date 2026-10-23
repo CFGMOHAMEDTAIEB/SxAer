@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "REV-0ff356ee7fbf",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:46:34.345472+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-f7526b3ad03c",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:46:34.464008+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-81079cf43767",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:48:08.090520+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-929b7c1608ab",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:48:08.213409+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-c30d5db3a202",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:49:17.216842+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2e2a5e2845fa",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:49:17.428449+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-97d71367556f",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:52:58.928990+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-f899cb42bebb",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:52:59.114985+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-3ef91824c8bb",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:55:27.053563+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-fb14d5d2937b",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T15:55:27.189178+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-8f8e3547b20e",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:29:49.723898+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-28e651d4890c",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.01020408163265306,
+          "metadata": {
+            "format": "pdf",
+            "pages": 20,
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_type": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "extractor": "pypdf",
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "profile": "generic",
+            "line_start": 755,
+            "line_end": 771,
+            "chunk_index": 25
+          }
+        },
+        {
+          "chunk_id": "548be444ece3caa3-0000",
+          "text": "SmartX Agentic AI Architecture\nA configurable engineering platform using universal JSON translation, LLMs,\nRAG, deterministic rules, and specialist agents\nAny Input\nPDF Word Excel\nXML Code Tests\nUnderstanding\nParser + OCR + LLM\nCanonical\nSmartX JSON\nAgent\nOrchestrator\nValidation\nAgent\nTraceability\nAgent\nGeneration\nAgent\nReporting\nAgent\nSmartX Agentic Processing Pipeline\nScope: Inputs of heterogeneous type and writing style; canonical JSON exchange; generic and\nproject-specific treatment; DO-178C-oriented verification support; traceable outputs.\nPrepared for: Mohamed TAIEB    |    Date: 22 October 2026\nImportant: this report presents a technical architecture and assurance-support concept. It does not claim that an LLM output\nalone demonstrates certification compliance. Final compliance decisions, evidence acceptance, and tool qualification\nconsiderations remain under controlled engineering and certification processes.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 2\nDocument purpose and assumptions\nThis report explains how to build a production-oriented SmartX platform that can receive engineering",
+          "score": 0.010101010101010102,
+          "metadata": {
+            "format": "pdf",
+            "pages": 20,
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_type": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "extractor": "pypdf",
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "profile": "generic",
+            "line_start": 1,
+            "line_end": 31,
+            "chunk_index": 0
+          }
+        },
+        {
+          "chunk_id": "548be444ece3caa3-0002",
+          "text": "The central design decision is the SmartX Canonical JSON. Every stage receives a versioned JSON\nenvelope and produces another versioned JSON envelope. This isolates file-format complexity from\nbusiness logic, enables replay and auditing, and lets the same validation or traceability agent process\nartifacts originating from PDF, Word, Excel, XML, source code, or test specifications.\nContents\n1. Vision and principles\n2. Target architecture\n3. How the system understands an input\n4. JSON Translator design\n5. Agentic processing and orchestration\n6. LLM, RAG, rules, and configuration\n7. Generic DO-178C-oriented and specific GT44 treatment\n8. Output generation and traceability\n9. Security, assurance, and human oversight\n10. Developer architecture and APIs\n11. Implementation roadmap and validation strategy\n12. Worked example\n13. Risks, limitations, and conclusion\nReferences\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 3\n1. Vision and design principles\nThe vision is a reusable engineering intelligence platform, not a single chatbot. A user uploads an\nartifact, selects or inherits a project profile, and requests a function such as validation, traceability, test",
+          "score": 0.009900990099009901,
+          "metadata": {
+            "format": "pdf",
+            "pages": 20,
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_type": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "extractor": "pypdf",
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "profile": "generic",
+            "line_start": 46,
+            "line_end": 68,
+            "chunk_index": 2
+          }
+        },
+        {
+          "chunk_id": "548be444ece3caa3-0011",
+          "text": "Candidate relevance and rationale;\nnever autonomous certification\napproval.\nTraceability\nDiscover and score links among\nrequirement, design, code, and test\nartifacts.\nCandidate links, missing-link findings,\nconflict records.\nGeneration\nDraft tests, stubs, summaries, and\nreports from approved context.\nDraft artifacts clearly marked as\ngenerated and pending review.\nAssistant\nAnswer questions using authorized\nproject evidence.\nGrounded answers with artifact\nreferences.\nReporting\nMerge approved results into\ndeliverables.\nPDF, DOCX, XLSX, JSON, dashboards.\nOrchestrator state\n{\n\"job_id\": \"job_123\",\n\"requested_operation\": \"validate_and_trace\",\n\"profile_snapshot\": \"profile_hash\",\n\"artifacts\": [\"art_1\", \"art_2\"],\n\"completed_nodes\": [\"intake\", \"translate\"],\n\"next_allowed_nodes\": [\"generic_rules\", \"gt44_rules\"],\n\"findings\": [],\n\"human_gate\": {\"required\": false, \"reason\": null},\n\"status\": \"RUNNING\"\n}\nRouting policy example\n\u2022 If schema validation fails, route to translation repair or human mapping; do not call compliance\nagents.\n\u2022 If artifact type is requirement, run requirement-quality rules, relevant project rules, traceability, and\noptionally test generation.",
+          "score": 0.009708737864077669,
+          "metadata": {
+            "format": "pdf",
+            "pages": 20,
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_type": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "extractor": "pypdf",
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "profile": "generic",
+            "line_start": 323,
+            "line_end": 361,
+            "chunk_index": 11
+          }
+        },
+        {
+          "chunk_id": "548be444ece3caa3-0021",
+          "text": "POST /v1/files\nUpload and register an immutable source file.\nPOST /v1/jobs\nCreate a task using a profile and requested operations.\nGET /v1/jobs/{id}\nRead state, events, pending approvals, and results.\nPOST /v1/reviews/{id}/decision\nApprove, reject, or correct a proposed mapping/finding/link.\nGET /v1/artifacts/{id}\nReturn canonical JSON and provenance.\nGET /v1/results/{id}/export\nExport an authorized PDF, spreadsheet, DOCX, or JSON\npackage.\nPOST /v1/admin/profiles/validate\nValidate profile inheritance, rule references, and permissions.\nPersistence model\n\u2022 Object store: immutable originals, rendered pages, and generated deliverables.\n\u2022 Relational database: jobs, artifacts, relationships, findings, profiles, reviews, and audit events.\n\u2022 Vector database: authorized chunks and artifact embeddings, partitioned by tenant/profile.\n\u2022 Event log: every transition, tool call summary, input/output hash, and approval.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 16\n11. Implementation roadmap and validation\nstrategy\nIncremental delivery\nPhase\nDeliverable\nExit criteria\n1 -\nFoundation\nUpload, parsers, source map,\ncanonical schema, UI profile\nselection.",
+          "score": 0.009708737864077669,
+          "metadata": {
+            "format": "pdf",
+            "pages": 20,
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_type": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "extractor": "pypdf",
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "profile": "generic",
+            "line_start": 650,
+            "line_end": 681,
+            "chunk_index": 21
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.01020408163265306,
+        "metadata": {
+          "format": "pdf",
+          "pages": 20,
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_type": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "extractor": "pypdf",
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "profile": "generic",
+          "line_start": 755,
+          "line_end": 771,
+          "chunk_index": 25
+        }
+      },
+      {
+        "chunk_id": "548be444ece3caa3-0000",
+        "text": "SmartX Agentic AI Architecture\nA configurable engineering platform using universal JSON translation, LLMs,\nRAG, deterministic rules, and specialist agents\nAny Input\nPDF Word Excel\nXML Code Tests\nUnderstanding\nParser + OCR + LLM\nCanonical\nSmartX JSON\nAgent\nOrchestrator\nValidation\nAgent\nTraceability\nAgent\nGeneration\nAgent\nReporting\nAgent\nSmartX Agentic Processing Pipeline\nScope: Inputs of heterogeneous type and writing style; canonical JSON exchange; generic and\nproject-specific treatment; DO-178C-oriented verification support; traceable outputs.\nPrepared for: Mohamed TAIEB    |    Date: 22 October 2026\nImportant: this report presents a technical architecture and assurance-support concept. It does not claim that an LLM output\nalone demonstrates certification compliance. Final compliance decisions, evidence acceptance, and tool qualification\nconsiderations remain under controlled engineering and certification processes.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 2\nDocument purpose and assumptions\nThis report explains how to build a production-oriented SmartX platform that can receive engineering",
+        "score": 0.010101010101010102,
+        "metadata": {
+          "format": "pdf",
+          "pages": 20,
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_type": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "extractor": "pypdf",
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "profile": "generic",
+          "line_start": 1,
+          "line_end": 31,
+          "chunk_index": 0
+        }
+      },
+      {
+        "chunk_id": "548be444ece3caa3-0002",
+        "text": "The central design decision is the SmartX Canonical JSON. Every stage receives a versioned JSON\nenvelope and produces another versioned JSON envelope. This isolates file-format complexity from\nbusiness logic, enables replay and auditing, and lets the same validation or traceability agent process\nartifacts originating from PDF, Word, Excel, XML, source code, or test specifications.\nContents\n1. Vision and principles\n2. Target architecture\n3. How the system understands an input\n4. JSON Translator design\n5. Agentic processing and orchestration\n6. LLM, RAG, rules, and configuration\n7. Generic DO-178C-oriented and specific GT44 treatment\n8. Output generation and traceability\n9. Security, assurance, and human oversight\n10. Developer architecture and APIs\n11. Implementation roadmap and validation strategy\n12. Worked example\n13. Risks, limitations, and conclusion\nReferences\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 3\n1. Vision and design principles\nThe vision is a reusable engineering intelligence platform, not a single chatbot. A user uploads an\nartifact, selects or inherits a project profile, and requests a function such as validation, traceability, test",
+        "score": 0.009900990099009901,
+        "metadata": {
+          "format": "pdf",
+          "pages": 20,
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_type": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "extractor": "pypdf",
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "profile": "generic",
+          "line_start": 46,
+          "line_end": 68,
+          "chunk_index": 2
+        }
+      },
+      {
+        "chunk_id": "548be444ece3caa3-0011",
+        "text": "Candidate relevance and rationale;\nnever autonomous certification\napproval.\nTraceability\nDiscover and score links among\nrequirement, design, code, and test\nartifacts.\nCandidate links, missing-link findings,\nconflict records.\nGeneration\nDraft tests, stubs, summaries, and\nreports from approved context.\nDraft artifacts clearly marked as\ngenerated and pending review.\nAssistant\nAnswer questions using authorized\nproject evidence.\nGrounded answers with artifact\nreferences.\nReporting\nMerge approved results into\ndeliverables.\nPDF, DOCX, XLSX, JSON, dashboards.\nOrchestrator state\n{\n\"job_id\": \"job_123\",\n\"requested_operation\": \"validate_and_trace\",\n\"profile_snapshot\": \"profile_hash\",\n\"artifacts\": [\"art_1\", \"art_2\"],\n\"completed_nodes\": [\"intake\", \"translate\"],\n\"next_allowed_nodes\": [\"generic_rules\", \"gt44_rules\"],\n\"findings\": [],\n\"human_gate\": {\"required\": false, \"reason\": null},\n\"status\": \"RUNNING\"\n}\nRouting policy example\n\u2022 If schema validation fails, route to translation repair or human mapping; do not call compliance\nagents.\n\u2022 If artifact type is requirement, run requirement-quality rules, relevant project rules, traceability, and\noptionally test generation.",
+        "score": 0.009708737864077669,
+        "metadata": {
+          "format": "pdf",
+          "pages": 20,
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_type": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "extractor": "pypdf",
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "profile": "generic",
+          "line_start": 323,
+          "line_end": 361,
+          "chunk_index": 11
+        }
+      },
+      {
+        "chunk_id": "548be444ece3caa3-0021",
+        "text": "POST /v1/files\nUpload and register an immutable source file.\nPOST /v1/jobs\nCreate a task using a profile and requested operations.\nGET /v1/jobs/{id}\nRead state, events, pending approvals, and results.\nPOST /v1/reviews/{id}/decision\nApprove, reject, or correct a proposed mapping/finding/link.\nGET /v1/artifacts/{id}\nReturn canonical JSON and provenance.\nGET /v1/results/{id}/export\nExport an authorized PDF, spreadsheet, DOCX, or JSON\npackage.\nPOST /v1/admin/profiles/validate\nValidate profile inheritance, rule references, and permissions.\nPersistence model\n\u2022 Object store: immutable originals, rendered pages, and generated deliverables.\n\u2022 Relational database: jobs, artifacts, relationships, findings, profiles, reviews, and audit events.\n\u2022 Vector database: authorized chunks and artifact embeddings, partitioned by tenant/profile.\n\u2022 Event log: every transition, tool call summary, input/output hash, and approval.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 16\n11. Implementation roadmap and validation\nstrategy\nIncremental delivery\nPhase\nDeliverable\nExit criteria\n1 -\nFoundation\nUpload, parsers, source map,\ncanonical schema, UI profile\nselection.",
+        "score": 0.009708737864077669,
+        "metadata": {
+          "format": "pdf",
+          "pages": 20,
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_type": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "extractor": "pypdf",
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "profile": "generic",
+          "line_start": 650,
+          "line_end": 681,
+          "chunk_index": 21
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:29:52.082136+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2173dc9d7979",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "line_start": 755,
+            "profile": "generic",
+            "line_end": 771,
+            "extraction_method": "pypdf",
+            "confidence": 0.95,
+            "chunk_index": 25,
+            "format": "pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "source": "upload",
+            "project": "default",
+            "source_type": "pdf",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "pages": 20,
+            "extractor": "pypdf",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "line_start": 755,
+          "profile": "generic",
+          "line_end": 771,
+          "extraction_method": "pypdf",
+          "confidence": 0.95,
+          "chunk_index": 25,
+          "format": "pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "source": "upload",
+          "project": "default",
+          "source_type": "pdf",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "pages": 20,
+          "extractor": "pypdf",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:40:10.767193+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2977e96f3673",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "2e9fe5883dd64097-0000",
+          "text": "give me test to this file",
+          "score": 0.2722211480140686,
+          "metadata": {
+            "source_type": "txt",
+            "filename": "pasted_text.txt",
+            "source": "upload",
+            "line_end": 1,
+            "extraction_method": "text-lines",
+            "chunk_index": 0,
+            "line_start": 1,
+            "profile": "generic",
+            "project": "default",
+            "extractor": "text",
+            "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+            "confidence": 0.95,
+            "format": "txt",
+            "source_name": "pasted_text.txt"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "2e9fe5883dd64097-0000",
+        "text": "give me test to this file",
+        "score": 0.2722211480140686,
+        "metadata": {
+          "source_type": "txt",
+          "filename": "pasted_text.txt",
+          "source": "upload",
+          "line_end": 1,
+          "extraction_method": "text-lines",
+          "chunk_index": 0,
+          "line_start": 1,
+          "profile": "generic",
+          "project": "default",
+          "extractor": "text",
+          "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+          "confidence": 0.95,
+          "format": "txt",
+          "source_name": "pasted_text.txt"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:40:20.032286+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-e2958ed65853",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "extraction_method": "pypdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "source_type": "pdf",
+            "extractor": "pypdf",
+            "line_start": 755,
+            "pages": 20,
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "format": "pdf",
+            "confidence": 0.95,
+            "line_end": 771,
+            "profile": "generic",
+            "chunk_index": 25
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "extraction_method": "pypdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "source_type": "pdf",
+          "extractor": "pypdf",
+          "line_start": 755,
+          "pages": 20,
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "format": "pdf",
+          "confidence": 0.95,
+          "line_end": 771,
+          "profile": "generic",
+          "chunk_index": 25
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:40:24.818560+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-1f78a766d3ff",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "2e9fe5883dd64097-0000",
+          "text": "give me test to this file",
+          "score": 0.2722211480140686,
+          "metadata": {
+            "source": "upload",
+            "extractor": "text",
+            "format": "txt",
+            "line_start": 1,
+            "project": "default",
+            "source_type": "txt",
+            "profile": "generic",
+            "chunk_index": 0,
+            "source_name": "pasted_text.txt",
+            "filename": "pasted_text.txt",
+            "line_end": 1,
+            "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+            "extraction_method": "text-lines",
+            "confidence": 0.95
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "2e9fe5883dd64097-0000",
+        "text": "give me test to this file",
+        "score": 0.2722211480140686,
+        "metadata": {
+          "source": "upload",
+          "extractor": "text",
+          "format": "txt",
+          "line_start": 1,
+          "project": "default",
+          "source_type": "txt",
+          "profile": "generic",
+          "chunk_index": 0,
+          "source_name": "pasted_text.txt",
+          "filename": "pasted_text.txt",
+          "line_end": 1,
+          "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+          "extraction_method": "text-lines",
+          "confidence": 0.95
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:40:29.341189+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-c9c14e23e90c",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "source": "upload",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "profile": "generic",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "project": "default",
+            "line_end": 771,
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "format": "pdf",
+            "pages": 20,
+            "chunk_index": 25,
+            "extraction_method": "pypdf",
+            "extractor": "pypdf",
+            "source_type": "pdf",
+            "line_start": 755,
+            "confidence": 0.95
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "source": "upload",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "profile": "generic",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "project": "default",
+          "line_end": 771,
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "format": "pdf",
+          "pages": 20,
+          "chunk_index": 25,
+          "extraction_method": "pypdf",
+          "extractor": "pypdf",
+          "source_type": "pdf",
+          "line_start": 755,
+          "confidence": 0.95
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:40:34.114127+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-85b34680da2e",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "2e9fe5883dd64097-0000",
+          "text": "give me test to this file",
+          "score": 0.2722211480140686,
+          "metadata": {
+            "profile": "generic",
+            "source": "upload",
+            "extraction_method": "text-lines",
+            "extractor": "text",
+            "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+            "project": "default",
+            "source_type": "txt",
+            "source_name": "pasted_text.txt",
+            "format": "txt",
+            "line_start": 1,
+            "line_end": 1,
+            "filename": "pasted_text.txt",
+            "confidence": 0.95,
+            "chunk_index": 0
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "2e9fe5883dd64097-0000",
+        "text": "give me test to this file",
+        "score": 0.2722211480140686,
+        "metadata": {
+          "profile": "generic",
+          "source": "upload",
+          "extraction_method": "text-lines",
+          "extractor": "text",
+          "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+          "project": "default",
+          "source_type": "txt",
+          "source_name": "pasted_text.txt",
+          "format": "txt",
+          "line_start": 1,
+          "line_end": 1,
+          "filename": "pasted_text.txt",
+          "confidence": 0.95,
+          "chunk_index": 0
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:41:28.810405+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-05dc0f156298",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "confidence": 0.95,
+            "pages": 20,
+            "source_type": "pdf",
+            "chunk_index": 25,
+            "line_start": 755,
+            "project": "default",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "extractor": "pypdf",
+            "profile": "generic",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "line_end": 771,
+            "format": "pdf",
+            "extraction_method": "pypdf",
+            "source": "upload"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "confidence": 0.95,
+          "pages": 20,
+          "source_type": "pdf",
+          "chunk_index": 25,
+          "line_start": 755,
+          "project": "default",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "extractor": "pypdf",
+          "profile": "generic",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "line_end": 771,
+          "format": "pdf",
+          "extraction_method": "pypdf",
+          "source": "upload"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:41:33.472606+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-c5e718277af9",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "2e9fe5883dd64097-0000",
+          "text": "give me test to this file",
+          "score": 0.2722211480140686,
+          "metadata": {
+            "chunk_index": 0,
+            "line_start": 1,
+            "source_type": "txt",
+            "project": "default",
+            "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+            "filename": "pasted_text.txt",
+            "source": "upload",
+            "format": "txt",
+            "extraction_method": "text-lines",
+            "confidence": 0.95,
+            "extractor": "text",
+            "line_end": 1,
+            "profile": "generic",
+            "source_name": "pasted_text.txt"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "2e9fe5883dd64097-0000",
+        "text": "give me test to this file",
+        "score": 0.2722211480140686,
+        "metadata": {
+          "chunk_index": 0,
+          "line_start": 1,
+          "source_type": "txt",
+          "project": "default",
+          "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+          "filename": "pasted_text.txt",
+          "source": "upload",
+          "format": "txt",
+          "extraction_method": "text-lines",
+          "confidence": 0.95,
+          "extractor": "text",
+          "line_end": 1,
+          "profile": "generic",
+          "source_name": "pasted_text.txt"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:41:46.940695+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-73278563310a",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "source": "upload",
+            "project": "default",
+            "line_start": 755,
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "confidence": 0.95,
+            "line_end": 771,
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "extractor": "pypdf",
+            "extraction_method": "pypdf",
+            "source_type": "pdf",
+            "profile": "generic",
+            "chunk_index": 25,
+            "pages": 20,
+            "format": "pdf",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "source": "upload",
+          "project": "default",
+          "line_start": 755,
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "confidence": 0.95,
+          "line_end": 771,
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "extractor": "pypdf",
+          "extraction_method": "pypdf",
+          "source_type": "pdf",
+          "profile": "generic",
+          "chunk_index": 25,
+          "pages": 20,
+          "format": "pdf",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:41:51.586680+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-31f4ea4bb334",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:42:07.202061+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-1ab637d06644",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:42:10.034634+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-633cae2b05e2",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:42:51.468068+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-7be905ff82e9",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:42:55.413533+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-d97f2f8c4eb1",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:45:49.983188+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-791bddb457d3",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:45:53.367514+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-dc2fd424e766",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "2e9fe5883dd64097-0000",
+          "text": "give me test to this file",
+          "score": 0.2722211480140686,
+          "metadata": {
+            "profile": "generic",
+            "extractor": "text",
+            "line_start": 1,
+            "source_type": "txt",
+            "filename": "pasted_text.txt",
+            "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+            "chunk_index": 0,
+            "source_name": "pasted_text.txt",
+            "project": "default",
+            "line_end": 1,
+            "confidence": 0.95,
+            "format": "txt",
+            "source": "upload",
+            "extraction_method": "text-lines"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "2e9fe5883dd64097-0000",
+        "text": "give me test to this file",
+        "score": 0.2722211480140686,
+        "metadata": {
+          "profile": "generic",
+          "extractor": "text",
+          "line_start": 1,
+          "source_type": "txt",
+          "filename": "pasted_text.txt",
+          "source_hash": "2e9fe5883dd64097b53853e231b0f328872997bd1417b25f5fa99b2c8cf0d7f0",
+          "chunk_index": 0,
+          "source_name": "pasted_text.txt",
+          "project": "default",
+          "line_end": 1,
+          "confidence": 0.95,
+          "format": "txt",
+          "source": "upload",
+          "extraction_method": "text-lines"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:47:54.067375+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-795ecf06333a",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "548be444ece3caa3-0025",
+          "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+          "score": 0.6999247670173645,
+          "metadata": {
+            "extractor": "pypdf",
+            "confidence": 0.95,
+            "line_start": 755,
+            "line_end": 771,
+            "project": "default",
+            "source": "upload",
+            "extraction_method": "pypdf",
+            "chunk_index": 25,
+            "pages": 20,
+            "source_type": "pdf",
+            "profile": "generic",
+            "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+            "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+            "format": "pdf"
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "548be444ece3caa3-0025",
+        "text": "The traceability agent compares requirement entities and interfaces with code symbols, proposes\nscored links, and sends uncertain links to review. The validation agent merges deterministic findings\nwith grounded explanations. The generation agent drafts test objectives only for approved\nrequirements and includes source IDs.\nE. Output\nThe user receives a PDF validation report, an Excel traceability matrix, and machine-readable JSON.\nEvery finding points to a spreadsheet cell or code line, identifies the applied rule, and records the\neffective profile, tool/model version, and review status.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 18\nKey behavior: when information is missing, SmartX does not fabricate it. The output contains an explicit\nmissing-information finding and, if configured, a question for the reviewer.\nSmartX Agentic AI Architecture - Technical Vision Report\nPage 19\n13. Risks, limitations, and conclusion\nMain limitations\n\u2022 A universal translator is achievable only through extensible adapters and mapping profiles; no model\nreliably understands every proprietary structure without examples and validation.",
+        "score": 0.6999247670173645,
+        "metadata": {
+          "extractor": "pypdf",
+          "confidence": 0.95,
+          "line_start": 755,
+          "line_end": 771,
+          "project": "default",
+          "source": "upload",
+          "extraction_method": "pypdf",
+          "chunk_index": 25,
+          "pages": 20,
+          "source_type": "pdf",
+          "profile": "generic",
+          "filename": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "source_hash": "548be444ece3caa3853559dfd1e68a162a187e2447d7297a53cc295deb4d5fd8",
+          "source_name": "SmartX_Agentic_AI_Architecture_Full_Report.pdf",
+          "format": "pdf"
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T16:48:01.415235+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-1d67a38020cc",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:21:27.354329+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-0a68edf30cb3",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:21:28.484262+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-7330edf5b828",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:28:07.674310+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-51535eb0cda6",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:28:08.878260+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2be3fc99aabb",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:30:57.438079+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-6077e9802e8f",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:30:58.745978+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-59c16ea405fa",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:32:19.794995+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2a3b51d35dac",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:32:21.297012+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-9bc70f4c3d59",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:34:06.206799+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-b86bb30220b0",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:34:07.455485+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-772b77767229",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:35:49.109910+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2e13c26ae4c8",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:35:50.341198+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-b70290d2bbca",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:36:52.338452+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-befe9c041c7f",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:36:53.569802+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-7360ea851532",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:37:21.482422+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-2c5d64b3ec9d",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": [
+      {
+        "status": "review",
+        "message": "insufficient authorized evidence",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-22T17:37:22.663026+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  },
+  {
+    "id": "REV-0c9acbf74ba6",
+    "kind": "compliance",
+    "project": "default",
+    "source": "workflow",
+    "location": "",
+    "proposal": {
+      "citations": [
+        {
+          "chunk_id": "62ca2b986cac2375-0013",
+          "text": "4.4.9 Pipeline de d\u00e9compression . . . . . . . . . . . . . . . . . . . . . . . . . . . 47\n4.4.10 Politique fail-closed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47\n4.4.11 Int\u00e9grit\u00e9 de l\u2019aller-retour . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48\n4.4.12 Port\u00e9e et limites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48\n4.5 Sprint 6 : Historique, partage et coh\u00e9rence multi-client . . . . . . . . . . . . . . . 48\n4.5.1 Cr\u00e9ation, notification et r\u00e9ception d\u2019un partage . . . . . . . . . . . . . . . 51\n4.6 R\u00e9alisation multi-client et administration . . . . . . . . . . . . . . . . . . . . . . 53\n4.6.1 Interface publique et portail utilisateur . . . . . . . . . . . . . . . . . . . . 53\n4.6.2 Application Flutter Desktop . . . . . . . . . . . . . . . . . . . . . . . . . . 54\n4.6.3 Acc\u00e8s et gestion des utilisateurs dans l\u2019administration .NET . . . . . . . . 55\n4.6.4 Audit et \u00e9tat des contr\u00f4les de s\u00e9curit\u00e9 . . . . . . . . . . . . . . . . . . . . 57\n4.6.5 Messagerie locale de d\u00e9monstration . . . . . . . . . . . . . . . . . . . . . . 58\n4.7 Sprint 7 : DevSecOps, reproductibilit\u00e9 et observabilit\u00e9 . . . . . . . . . . . . . . . 59",
+          "score": 0.0,
+          "metadata": {
+            "confidence": 0.95,
+            "extraction_method": "pypdf",
+            "line_end": 216,
+            "profile": "generic",
+            "source_name": "Rapport_PFE_Mohamed_Taieb_FINALE_ (1).pdf",
+            "filename": "Rapport_PFE_Mohamed_Taieb_FINALE_ (1).pdf",
+            "chunk_index": 13,
+            "source": "upload",
+            "format": "pdf",
+            "source_hash": "62ca2b986cac23754c311401cb47f43373e17fb2d787425bba35aaf2c0399b67",
+            "project": "default",
+            "extractor": "pypdf",
+            "source_type": "pdf",
+            "pages": 91,
+            "line_start": 205
+          }
+        }
+      ]
+    },
+    "citations": [
+      {
+        "chunk_id": "62ca2b986cac2375-0013",
+        "text": "4.4.9 Pipeline de d\u00e9compression . . . . . . . . . . . . . . . . . . . . . . . . . . . 47\n4.4.10 Politique fail-closed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47\n4.4.11 Int\u00e9grit\u00e9 de l\u2019aller-retour . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48\n4.4.12 Port\u00e9e et limites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48\n4.5 Sprint 6 : Historique, partage et coh\u00e9rence multi-client . . . . . . . . . . . . . . . 48\n4.5.1 Cr\u00e9ation, notification et r\u00e9ception d\u2019un partage . . . . . . . . . . . . . . . 51\n4.6 R\u00e9alisation multi-client et administration . . . . . . . . . . . . . . . . . . . . . . 53\n4.6.1 Interface publique et portail utilisateur . . . . . . . . . . . . . . . . . . . . 53\n4.6.2 Application Flutter Desktop . . . . . . . . . . . . . . . . . . . . . . . . . . 54\n4.6.3 Acc\u00e8s et gestion des utilisateurs dans l\u2019administration .NET . . . . . . . . 55\n4.6.4 Audit et \u00e9tat des contr\u00f4les de s\u00e9curit\u00e9 . . . . . . . . . . . . . . . . . . . . 57\n4.6.5 Messagerie locale de d\u00e9monstration . . . . . . . . . . . . . . . . . . . . . . 58\n4.7 Sprint 7 : DevSecOps, reproductibilit\u00e9 et observabilit\u00e9 . . . . . . . . . . . . . . . 59",
+        "score": 0.0,
+        "metadata": {
+          "confidence": 0.95,
+          "extraction_method": "pypdf",
+          "line_end": 216,
+          "profile": "generic",
+          "source_name": "Rapport_PFE_Mohamed_Taieb_FINALE_ (1).pdf",
+          "filename": "Rapport_PFE_Mohamed_Taieb_FINALE_ (1).pdf",
+          "chunk_index": 13,
+          "source": "upload",
+          "format": "pdf",
+          "source_hash": "62ca2b986cac23754c311401cb47f43373e17fb2d787425bba35aaf2c0399b67",
+          "project": "default",
+          "extractor": "pypdf",
+          "source_type": "pdf",
+          "pages": 91,
+          "line_start": 205
+        }
+      }
+    ],
+    "status": "open",
+    "comments": [],
+    "created_at": "2026-10-23T08:49:27.700000+00:00",
+    "decided_at": null,
+    "reviewer": null,
+    "decision": null,
+    "correction": null
+  }
+]

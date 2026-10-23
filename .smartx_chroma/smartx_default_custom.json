@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2b50b8deb4a1440f-0000",
+    "text": "{'name': 'Generic', 'rules': ['Every requirement must have an identifier and verifiable wording.']}",
+    "metadata": {
+      "filename": "builtin-generic.json",
+      "source_hash": "2b50b8deb4a1440f9ed3dae54944fc3b2af7001bd29dc1251944c9501136c237",
+      "project": "default",
+      "profile": "generic",
+      "source": "builtin-profile",
+      "extraction_method": "profile-config",
+      "confidence": 1.0,
+      "line_start": 1,
+      "line_end": 1,
+      "chunk_index": 0
+    }
+  }
+]

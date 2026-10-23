@@ -1,0 +1,34 @@
+[
+  {
+    "id": "2b50b8deb4a1440f-0000",
+    "text": "{'name': 'Generic', 'rules': ['Every requirement must have an identifier and verifiable wording.']}",
+    "metadata": {
+      "filename": "builtin-generic.json",
+      "source": "builtin-profile",
+      "profile": "safran",
+      "extraction_method": "profile-config",
+      "confidence": 1.0,
+      "source_hash": "2b50b8deb4a1440f9ed3dae54944fc3b2af7001bd29dc1251944c9501136c237",
+      "project": "default",
+      "line_start": 1,
+      "line_end": 1,
+      "chunk_index": 0
+    }
+  },
+  {
+    "id": "02105aef72a05aab-0000",
+    "text": "{'name': 'Safran', 'customer': 'Safran', 'rules': ['Make compliance evidence and review ownership explicit.']}",
+    "metadata": {
+      "filename": "builtin-safran.json",
+      "source": "builtin-profile",
+      "profile": "safran",
+      "extraction_method": "profile-config",
+      "confidence": 1.0,
+      "source_hash": "02105aef72a05aabf06f2df86f1204c78fec8670645638b4ef7d2b2c1d81cc27",
+      "project": "default",
+      "line_start": 1,
+      "line_end": 1,
+      "chunk_index": 0
+    }
+  }
+]
